@@ -1,4 +1,4 @@
-CKEditor Widget for Yii2
+Custom Fork of CKEditor Widget for Yii2
 ========================
 
 [![Latest Version](https://img.shields.io/github/tag/2amigos/yii2-ckeditor-widget.svg?style=flat-square&label=release)](https://github.com/2amigos/yii2-ckeditor-widget/tags)
@@ -8,7 +8,7 @@ CKEditor Widget for Yii2
 [![Quality Score](https://img.shields.io/scrutinizer/g/2amigos/yii2-ckeditor-widget.svg?style=flat-square)](https://scrutinizer-ci.com/g/2amigos/yii2-ckeditor-widget)
 [![Total Downloads](https://img.shields.io/packagist/dt/2amigos/yii2-ckeditor-widget.svg?style=flat-square)](https://packagist.org/packages/2amigos/yii2-ckeditor-widget)
 
-Renders a [CKEditor WYSIWYG text editor plugin](http://www.ckeditor.com) widget.
+Renders a [CKEditor WYSIWYG text editor plugin](http://www.ckeditor.com) widget. Relying on work from [maz0717] (https://github.com/maz0717/yii2-ckeditor-widget) to pull in latest CKeditor.
 
 Installation
 ------------
